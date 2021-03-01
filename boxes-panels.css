@@ -1,0 +1,33 @@
+.body-box-container {
+margin-right: 5% ;
+margin-bottom: 5%;
+margin-top: 5px;
+background-color: crimson;
+}
+
+#main-navi-icon-box-container {margin-left: 5% ;
+    margin-right: 5% ;
+    margin-bottom: 5%;
+    margin-top: 5px;
+    background-color:chartreuse ;
+    margin-left: 5% ;
+}
+
+.navi-icon-box {
+    margin-right: 5% ;
+    margin-bottom: 5%;
+    margin-top: 5px;
+    background-color:rgb(17, 75, 6) ;
+    margin-left: 5% ;
+    flex-wrap: wrap;
+
+    
+}
+
+.navi-icon { margin-right: 5% ;
+    margin-bottom: 5%;
+    margin-top: 5px;
+    background-color:rgb(17, 158, 71) ;
+    margin-left: 5% ;
+margin-block-start: 20px;
+}
